@@ -1,16 +1,17 @@
-# lista_tarefas
+# Sobre o app
+Esse app é um simple To Do List, cuja sua função é armazenar quais são a suas tarefas que precisam ser feitas,<br>
+o app também conta com campo de seleção para marcar se a tarefa está pendente o se jṕa foi realizada.
 
-A new Flutter project.
+## O que aprendi 
+Este app foi desenvolvido com intuito de aprendizagem na linguagem Flutter<br>
+<div>Com ele conseguir aprender:</p>
+<p>*Ler e Escrever arquivos Json pelo Dart;</p>
+<p>*Como armazenar informações fixamente no proprio app;</p>
+<p>*Como recumperar uma informação deletada;</p>
+<p>*A ultilização do SnackBar para criar uma ação de recumperar os dados deletados;</p>
+<p>*Ordenação dos elementos em tela baseado em um Status específico </p>
+</div>
 
-## Getting Started
+## Exemplo de funcionamento do APP
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Watch the video](homeapp.png)](https://youtu.be/9QdDb6G6vYU)
