@@ -13,8 +13,6 @@ Este app foi desenvolvido com intuito de aprendizagem na linguagem Flutter<br>
 </div>
 
 ## Exemplo de funcionamento do APP
-<p>Clique no Link abaixo para ver o vidéo de demostração</p>
-https://youtu.be/9QdDb6G6vYU
-<a width="25%">
+<p>Clique no Link abaixo para ver o vidéo de demostração<br>https://youtu.be/9QdDb6G6vYU</p>
+
 [![Watch the video](homeapp.png)](https://youtu.be/9QdDb6G6vYU)
-</a>
