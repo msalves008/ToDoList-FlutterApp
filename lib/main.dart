@@ -62,7 +62,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Lista de Tarefas"),
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Colors.redAccent,
         centerTitle: true,
       ),
       body: Column(
@@ -76,11 +76,11 @@ class _HomeState extends State<Home> {
                     controller: _toDoController,
                     decoration: InputDecoration(
                         labelText: "Nova Tarefa",
-                        labelStyle: TextStyle(color: Colors.blueAccent)),
+                        labelStyle: TextStyle(color: Colors.redAccent)),
                   ),
                 ),
                 RaisedButton(
-                  color: Colors.blueAccent,
+                  color: Colors.redAccent,
                   child: Text('ADD'),
                   textColor: Colors.white,
                   onPressed: _addToDo,
